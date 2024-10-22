@@ -9,6 +9,7 @@
 ## Places
 
 * [Evergreen](places/evergreen.md), the colony you're stationed at
+* [The Gray Towns](places/gray-towns.md), unsanctioned settlements scattered around the colony
 
 ## People
 
