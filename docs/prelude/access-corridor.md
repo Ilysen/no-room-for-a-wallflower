@@ -1,0 +1,11 @@
+# Access Corridor
+
+Access Corridor (abbreviation ACO) is small but growing transit/freight firm specializing in long-term hauling trips throughout the Diaspora. Founded in 4955u, and acquired by IPS-Northstar as an autonomous subsidiary in 4993u, the corpro recently marked its sixtieth year in operation.
+
+Unlike its parent company and frequently to its detriment, Access Corridor places a great deal of emphasis on hierarchy and professionalism, ditching IPS-N's ruggedness in favor of spotlighting their reliability and flexibility. Although the crews of individual ships are largely independent, their command structures are expected to be organized oligarchically, with a layer cake of specialized officers managing the daily operations of subordinates beneath them. In practice, though, chain of command often tends to fairly lax, with all but the most company-aligned of the "executive track" tending to intermingle with the rest of the crew despite attempts from on high to curtail it. Pulling rank to get your way is viewed as extremely petty, and tends to make enemies in all but the most tightly controlled of ACO's crews.
+
+Although ACO maintains a variety of operations, its specialty — and the niche in which it has met with the most success — is refining and transporting fuel and passengers to distant worlds and stations that are otherwise costly to incorporate into existing routes. ACO-operated ships trend towards long and meandering trips far off the beaten path, often spending months or years in realtime between stops in slapdash routes that never really end.
+
+Access Corridor has just over two dozen ships in its fleet, with its flagship being the *Empyrean*: a massive twin-tank fuel hauler crewed by around a thousand people, launched in 5014u. Despite being smaller by a factor of four, the [*Cetacean*](aco-cetacean.md) is the company's third largest vessel.
+
+In the modern day, ACO has found itself in a period of rapid growth and expansion, partly due to having received significant investment from IPS-N in recent years.

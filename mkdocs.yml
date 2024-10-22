@@ -1,0 +1,37 @@
+site_name: END OF TRANSMISSION
+theme: readthedocs
+nav:
+  - 'index.md'
+  - 'prelude/timeline.md'
+  - 'Background':
+    - 'People':
+      - 'prelude/access-corridor.md'
+      - 'ACO Cetacean':
+        - 'prelude/people/jeremiah-quay.md'
+        - 'prelude/people/poppy-moray.md'
+        - 'prelude/people/brilliant-sparks.md'
+    - 'Places':
+      - 'prelude/aco-cetacean.md'
+      - 'prelude/ngoc-linh.md'
+      - 'prelude/hip25205.md'
+    - 'Things':
+      - 'prelude/the-bubble.md'
+  - 'Part 1':
+    - 'People':
+      - 'act-1/cypress-logistics.md'
+      - 'Ngoc Linh Station':
+        - 'act-1/people/halric.md'
+        - 'act-1/people/irukandji.md'
+        - 'act-1/people/halcyon.md'
+        - 'Novelists':
+          - 'act-1/people/novelists/novel.md'
+          - 'act-1/people/novelists/andrea.md'
+        - 'Concourse Movement':
+          - 'act-1/people/concourse/randy.md'
+  - 'Part 2':
+    - 'People':
+      - 'act-2/people/legion.md'
+      - 'act-2/people/jay.md'
+    - 'Places':
+      - 'act-2/gian-point.md'
+      - 'act-2/metavault-tonatiuh.md'
