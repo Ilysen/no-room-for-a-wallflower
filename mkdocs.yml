@@ -4,11 +4,16 @@ nav:
   - 'index.md'
   - 'People':
     - 'Landmark Colonial':
-      - 'people/patience.md'
-      - 'people/edena-ji.md'
-      - 'people/brava-hadura.md'
+      - 'people/landmark/patience.md'
+      - 'people/landmark/edena-ji.md'
+      - 'people/landmark/brava-hadura.md'
+    - 'Raiders':
+      - 'people/huc/psalm.md'
+      - 'people/huc/mimi.md'
+      - 'people/huc/appalachia.md'
     - 'Groups of Interest':
       - 'factions/landmark-colonial.md'
+      - 'factions/huc.md'
   - 'Places':
     - 'places/evergreen.md'
     - 'places/gray-towns.md'
