@@ -17,11 +17,3 @@ Conventional understanding indicates that average Egregorian displayed a startli
 ## Fate
 
 Insofar as public records indicate, Hercynia was the testing ground for the General Massive Systems's initial forays and into the design and construction of the first mechanized chassis. Egregorians lacked a prey species, and by the time of the Second Committee's arrival, the biosphere was in remission following what was effectively a planetwide infestation. Through a protacted and gruelling TBK campaign, Union eventually settled the matter for good, pushing the entire species into extinction.
-
-## Raiders' claims
-
-Following the capture and interrogation of several of the [raiders](../factions/huc.md) that have been plaguing Evergreen, new information has come to light on the Egregorian species.
-
-According to the captives — who refer to the Egregorians as the "first people" — they weren't at all the mindless beasts that the Second Committee treated them as. They claim that the Egregorians were people: *a* people, a genuinely sapient species, with a culture and minds and lives that were cut short when Union drove them extinct in the TBK.
-
-They have not yet shared any further details. The authenticity of their statements cannot be verified at this time.

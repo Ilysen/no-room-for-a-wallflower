@@ -1,7 +1,7 @@
 # Edena Ji (she/her) — Competent, Level-Headed, Mindful
 
 <p align="center">
-    <img style="max-height: 500px;" src="../../img/edena-ji.png"/>
+    <img style="max-height: 500px;" src="../../../img/edena-ji.png"/>
 </p>
 
 Edena Ji is [Patience's](patience.md) attaché — the colonial administrator's chief operations officer and right-hand woman. A second-generation colonist, Edena is Patience's second COO and has held the position for a decade. She works with a single-minded devotion to see Patience's will carried out.

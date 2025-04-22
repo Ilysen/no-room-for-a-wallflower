@@ -1,7 +1,7 @@
 # Patience (they/them) — Analytical, Calm, Calculating
 
 <p align="center">
-    <img style="max-height: 500px;" src="../../img/patience.png"/>
+    <img style="max-height: 500px;" src="../../../img/patience.png"/>
 </p>
 
 Patience is [Evergreen's](../../places/evergreen.md) colonial administrator, a [Landmark](../../factions/landmark-colonial.md)-developed version of the SIDEWALK-J2 NHP, full-spectrum civic administration platform common across the Diaspora. SIDEWALK-J2s are known for their reliability, predictable and customizable cycling schedule, and continuity of deveopment as they invested in their assigned civic theater, not their out-of-the-envelope thinking and actions.
