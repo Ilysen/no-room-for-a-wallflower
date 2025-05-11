@@ -12,7 +12,9 @@ nav:
       - 'factions/huc.md'
   - 'Places':
     - 'places/evergreen.md'
-    - 'places/gray-towns.md'
+    - 'Gray Towns':
+      - 'places/gray-towns/merricktown.md'
+      - 'places/gray-towns/liu-maize.md'
   - 'Things':
     - 'things/hercynia.md'
     - 'things/egregorians.md'
