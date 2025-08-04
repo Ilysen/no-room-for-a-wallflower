@@ -2,7 +2,7 @@
 
 **>// WELCOME LANCER**<br/>
 **>// PLEASE VIEW THIS DOCUMENTATION AT YOUR LEISURE<br/>**
-**>// LAST UPDATED: MAY 11 2025 // MISSION 1**
+**>// LAST UPDATED: AUGUST 3 2025 // DOWNTIME 1**
 
 *For a full list of entries, view the table of contents in the left-hand sidebar.*
 
@@ -20,7 +20,8 @@
 * [Patience](people/landmark/patience.md), colonial administrator of Evergreen
 * [Edena Ji](people/landmark/edena-ji.md), their attaché
 * [Brava Hadura](people/landmark/brava-hadura.md), commander of the militia
-
+#### [Raiders](factions/huc.md)
+* [Psalm](people/huc/psalm.md), [Mimi](people/huc/mimi.md), and [Appalachia](people/huc/appalachia.md), the three raiders you captured
 ## Things
 
 * [Hercynia's climate and geography](things/hercynia.md)
